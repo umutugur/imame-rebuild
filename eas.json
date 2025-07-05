@@ -1,0 +1,20 @@
+{
+  "build": {
+    "development": {
+      "android": {
+        "workflow": "managed"
+      },
+      "env": {
+        "GOOGLE_SERVICES_JSON": "GOOGLE_SERVICES_JSON"
+      }
+    },
+    "production": {
+      "android": {
+        "workflow": "managed"
+      },
+      "env": {
+        "GOOGLE_SERVICES_JSON": "GOOGLE_SERVICES_JSON"
+      }
+    }
+  }
+}

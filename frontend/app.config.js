@@ -23,7 +23,7 @@ export default {
     },
     android: {
       package: "com.umutugur.imame",
-      googleServicesFile: "android/app/google-services.json",
+      googleServicesFile: "./google-services.json",
       permissions: ["NOTIFICATIONS"]
     }
   }
